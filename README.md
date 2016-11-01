@@ -1,4 +1,4 @@
-Discovery System RESTful API
+**The [documentation for the Discovery System RESTful API](http://www.nationalarchives.gov.uk/help/discovery-for-developers-about-the-application-programming-interface-api/) can now be found on The National Archives website.**
 
 The National Archives API
 -------------------------
